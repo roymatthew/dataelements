@@ -1,0 +1,9 @@
+DataElement:
+  - elementName: "JUnit"
+    elementType: "Jtest"
+    groupName: "JGroup"
+    displayName: "JunitDisplay"
+  - elementName: "DBUnit"
+    elementType: "DBtest"
+    groupName: "DBGroup"
+    displayName: "DBUnitDisplay"    
